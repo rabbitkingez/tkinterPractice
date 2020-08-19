@@ -6,7 +6,6 @@ Created on Sun Aug  9 07:06:36 2020
 """
 
 from tkinter import *
-from PIL import ImageTk,Image
 
 root = Tk()
 root.title("adding frame")
